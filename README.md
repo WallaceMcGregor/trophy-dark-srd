@@ -18,6 +18,6 @@ Todo el sistema ha sido creado por [Regik](https://twitter.com/Regik).
 ¡A jugar! O más bien... ¡a morir!
 
 
-##Licencia
+## Licencia
 
 Basado en el [SRD de Trophy Dark](https://trophyrpg.com/system/) con licencia **CC4.0**.
