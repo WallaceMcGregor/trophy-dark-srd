@@ -1,0 +1,2 @@
+{"_id":"j7gs8stQL4CpuAVw","name":"New Macro","type":"script","author":"TBCjj0Gi01bn1B7W","img":"icons/svg/dice-target.svg","scope":"global","command":"@{tirada_luz}d6","folder":null,"sort":0,"permission":{"default":0,"TBCjj0Gi01bn1B7W":3},"flags":{}}
+{"_id":"vWjZZMtUvsPabppb","name":"New Macro","type":"chat","author":"E5DkhQquJn46gxX2","img":"icons/svg/dice-target.svg","scope":"global","command":"@{tirada_luz}d6","folder":null,"sort":0,"permission":{"default":0,"E5DkhQquJn46gxX2":3},"flags":{}}
