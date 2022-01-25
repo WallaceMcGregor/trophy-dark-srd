@@ -1,0 +1,21 @@
+{
+  "name": "trophy-dark-srd",
+  "title": "Trophy Dark SRD",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.242",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.12.0"
+}
