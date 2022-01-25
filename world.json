@@ -1,7 +1,8 @@
 {
   "name": "trophy-dark-srd",
   "title": "Trophy Dark SRD [Spanish]",
-  "description": "",
+  "description": "<p>Cada ficha nueva que vayas a crear, donde dice <strong>Default</strong> lo cambias por <strong>PJ</strong>.</p>\n<p>En la propia ficha, en el apartado <strong>Tirada</strong> pones el n&uacute;mero de dados claros y oscuros que el jugador debe tirar. Una vez puesto, haz click en el dado que est&aacute; a la izquierda del dado claro y se realizar&aacute; la tirada. Recomiendo usar el m&oacute;dulo <strong>Dice So Nice</strong> para que se pueda ver el dado claro y oscuro sobre la misma.</p>\n<p>En la ventana de Chat, haz click en <strong>Detail</strong> situado en la tirada. Podr&aacute;s ver la Formula, Modifier, Xd6 y Xd6. El primer Xd6 es el dado claro, el segundo Xd6 es el dado oscuro. ('X' es el n&uacute;mero de dados de seis).</p>",
+  "author": "Regik",
   "authors": [],
   "flags": {},
   "version": "1.0.0",
@@ -14,8 +15,11 @@
   "dependencies": [],
   "socket": false,
   "protected": false,
+  "background": "worlds/trophy-dark-srd/trophy-site-cover.jpg",
   "coreVersion": "9.242",
+  "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.12.0"
+  "systemVersion": "0.12.0",
+  "url": "https://github.com/WallaceMcGregor/trophy-dark-srd"
 }
