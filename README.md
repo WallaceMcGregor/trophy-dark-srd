@@ -10,9 +10,8 @@ Todo el sistema ha sido creado por [Regik](https://twitter.com/Regik).
 
 # Uso
 - Abre Foundry y podrás entrar en el nuevo mundo. Cada ficha nueva que vayas a crear, donde dice **Default** lo cambias por **PJ**.
-- En la propia ficha, en el apartado **Tirada** pones el número de dados claros y oscuros que el jugador debe tirar. Una vez puesto, haz click en el dado que está a la izquierda del dado claro y se realizará la tirada. Recomiendo usar el módulo [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) para que se pueda ver el dado claro y oscuro sobre la misma.
-
-- En la ventana de Chat, haz click en **Detail** situado en la tirada. Podrás ver la Formula, Modifier, Xd6 y Xd6. El primer Xd6 es el dado claro, el segundo Xd6 es el dado oscuro. ('X' es el número de dados de seis).
+- En la propia ficha, en el apartado **Tirada** pones el número de dados claros y oscuros que el jugador debe tirar. Una vez puesto, haz click en el dado que está a la izquierda del dado claro y se realizará la tirada. 
+- Se mostrará la tarjeta del chat con un resultado descriptivo.
 
 
 ¡A jugar! O más bien... ¡a morir!
