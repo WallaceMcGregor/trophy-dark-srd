@@ -244,3 +244,9 @@ h4.entry-name a:hover {
   text-shadow: 0 0 8px black;
 }
 
+h4.sbchat-sender-name {
+  color: #292929;
+  font-family: 'Garamond Prmr Pro', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
