@@ -1,26 +1,20 @@
 {
-  "name": "trophy-dark-srd",
   "title": "Trophy Dark SRD [Spanish]",
-  "description": "<p>Cada ficha nueva que vayas a crear, donde dice <strong>Default</strong> lo cambias por <strong>PJ</strong>.</p>\n<p>En la propia ficha, en el apartado <strong>Tirada</strong> pones el n&uacute;mero de dados claros y oscuros que el jugador debe tirar. Una vez puesto, haz click en el dado que est&aacute; a la izquierda del dado claro y se realizar&aacute; la tirada.&nbsp;</p>\n<p>En la versi&oacute;n 1.1.0 se ha implementado un resultado de tirada descriptivo.</p>",
-  "author": "Regik",
-  "authors": [],
+  "description": "<p>Cada ficha nueva que vayas a crear, donde dice <strong>Default</strong> lo cambias por <strong>PJ</strong>.</p>\n<p>En la propia ficha, en el apartado <strong>Tirada</strong> pones el número de dados claros y oscuros que el jugador debe tirar. Una vez puesto, haz click en el dado que está a la izquierda del dado claro y se realizará la tirada. </p>\n<p>En la versión 1.1.0 se ha implementado un resultado de tirada descriptivo.</p>",
   "url": "https://github.com/WallaceMcGregor/trophy-dark-srd",
-  "flags": {},
-  "version": "1.2.3",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
+  "version": "1.3",
   "system": "sandbox",
-  "dependencies": [],
-  "socket": false,
-  "protected": false,
   "download": "https://github.com/WallaceMcGregor/trophy-dark-srd/archive/refs/heads/main.zip",
   "background": "worlds/trophy-dark-srd/trophy-site-cover.jpg",
-  "coreVersion": "9.242",
-  "nextSession": null,
+  "coreVersion": "11.315",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.12.0"
+  "systemVersion": "0.14.4.1",
+  "id": "trophy-dark-srd",
+  "compatibility": {
+    "verified": "11.315",
+    "minimum": "11"
+  },
+  "lastPlayed": "Wed Jan 17 2024 07:03:17 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 374
 }
