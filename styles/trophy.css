@@ -236,9 +236,9 @@ button, .window-app.image-popout .form-group button {
   font-family: "Signika", sans-serif;
 }
 
-h4.entry-name {
+/* h4.entry-name {
   color: black;
-}
+} */
 
 h4.entry-name a:hover {
   text-shadow: 0 0 8px black;
