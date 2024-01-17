@@ -1,6 +1,6 @@
 # Autor
 Todo el sistema ha sido creado por [Regik](https://twitter.com/Regik).
-[WallaceMcGregor](https://twitter.com/WallaceGregor) solo ha colaborado en retocar el aspecto visual y subirlo a los repositorios.
+[WallaceMcGregor](https://twitter.com/WallaceGregor) solo ha colaborado en retocar el aspecto visual y subirlo a los repositorios pertinentes.
 
 # Instalación manual
 
